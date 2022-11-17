@@ -1,0 +1,30 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#EB4D55;
+}
+
+.for-margin{
+    margin-left:800px;
+    display: flex;
+}
+
+.nav-texts{
+    margin-top:27px;
+}
+
+.top-nav{
+    height:5rem;
+}
+.nav-sec{
+    padding:20px;
+    color:gainsboro;
+    font-size:17px;
+    text-decoration: none;
+    
+}
+.nav-sec:hover{
+    color:white;
+    text-decoration: underline;
+    text-underline-offset:9px;
+}
+
